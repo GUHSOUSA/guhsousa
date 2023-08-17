@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá meu nome é Gustavo</h1>
-<h3 align="center">Sou Back-End</h3>
+<h3 align="center">Sou Back-End Develper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guhsousa&label=Profile%20views&color=0e75b6&style=flat" alt="guhsousa" /> </p>
 
